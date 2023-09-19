@@ -138,11 +138,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: master
-      resolved-ref: d35d672757ddc9669f99a5c1cd370749e927198d
-      url: "https://github.com/fleaflet/flutter_map.git"
+      ref: updatedRelease
+      resolved-ref: "4be2ea76d7629fc32cbd90497365adc0cd319b7b"
+      url: "https://github.com/Rado996/flutter_map_my_fork.git"
     source: git
-    version: "6.0.0-dev.2"
+    version: "5.0.0"
   frontend_server_client:
     dependency: transitive
     description:

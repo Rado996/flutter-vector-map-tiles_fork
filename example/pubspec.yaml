@@ -30,8 +30,8 @@ dependencies:
     path: ../
   flutter_map:
     git:
-      url: https://github.com/fleaflet/flutter_map.git
-      ref: master
+      url: https://github.com/Rado996/flutter_map_my_fork.git
+      ref: updatedRelease
   latlong2: ^0.9.0
 
 dev_dependencies:
