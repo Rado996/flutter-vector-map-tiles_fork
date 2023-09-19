@@ -28,7 +28,10 @@ dependencies:
     #path: ../../vector_tile_renderer 
   vector_map_tiles:
     path: ../
-  flutter_map: ^5.0.0
+  flutter_map:
+    git:
+      url: https://github.com/fleaflet/flutter_map.git
+      ref: master
   latlong2: ^0.9.0
 
 dev_dependencies:
